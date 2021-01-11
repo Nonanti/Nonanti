@@ -7,6 +7,7 @@
 <br />
 <h3 align="center">Languages & Tools/Platforms:<h3>
 <p align="center">
+<img align="center" alt="Visual Studio 2019" width="26px" src="https://cdn.discordapp.com/attachments/797522399545262080/798175837315792906/favpng_microsoft-visual-studio-visual-studio-code-team-foundation-server-visual-studio-application-l.png" />
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="center" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
