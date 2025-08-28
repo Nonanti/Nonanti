@@ -14,3 +14,4 @@ Hi, I'm a dotnet developer, but I'm trying to learn Rust. I also hope I can be a
 
  
  [![Nonanti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonanti)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonanti)
