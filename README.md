@@ -1,4 +1,4 @@
-## Hi Guys
+## Hi Guys 👋
 ### About Me
 Hi, I'm a dotnet developer, but I'm trying to learn Rust. I also hope I can be a good backend developer in the future.
 ### Links
