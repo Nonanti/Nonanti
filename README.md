@@ -5,7 +5,9 @@ Hi, I'm a dotnet developer, but I'm trying to learn Rust. I also hope I can be a
  [My TryHackMe](https://tryhackme.com/p/nonantiy)
  
  [My Twitter](https://x.com/NonantiyII)
+ 
  [My Website](https://nonantiy.com/)
+ 
  Discord: `nonantiy`
  
  ### Misc
