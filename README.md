@@ -1,6 +1,6 @@
 ## Hi Guys 👋
 ### About Me
-Hi, I'am .NET Backend Developer | Building QueryFlow & DataFlow Mathematics + Code = ❤️ | Learning Rust 🦀
+Hi, I'am .NET Backend Developer | Learning Rust 🦀
   
 ### Links
  [My TryHackMe](https://tryhackme.com/p/nonantiy)
